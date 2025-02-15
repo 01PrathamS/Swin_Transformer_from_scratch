@@ -1,1 +1,1 @@
-![Swin Transformer Architecture](https://github.com/01PrathamS/Swin_Transformer_from_scratch/tree/main/images/swin_transformer_architecture.png)
+![Swin Transformer Architecture](https://raw.githubusercontent.com/01PrathamS/Swin_Transformer_from_scratch/main/images/swin_transformer_architecture.png)
